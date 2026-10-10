@@ -1,0 +1,36 @@
+{
+  "telegramLink": "https://t.me/+74TGsMBlIwwyYTI0",
+  "paymentLink": "https://payliv.shop/pay/plv_rkermm7f-",
+  "referral": {
+    "level1": 25,
+    "level2": 3,
+    "level3": 2
+  },
+  "products": [
+    { "id": 1, "name": "Lexus S", "amount": 2000, "daily": 300, "total": 54000, "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=900&q=80" },
+    { "id": 2, "name": "Lexus RX", "amount": 5000, "daily": 800, "total": 144000, "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=900&q=80" },
+    { "id": 3, "name": "Lexus ES", "amount": 15000, "daily": 2400, "total": 432000, "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=900&q=80" },
+    { "id": 4, "name": "Lexus IS", "amount": 35000, "daily": 5600, "total": 1008000, "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80" },
+    { "id": 5, "name": "Lexus GX", "amount": 50000, "daily": 8500, "total": 1530000, "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=900&q=80" },
+    { "id": 6, "name": "Lexus LC", "amount": 100000, "daily": 17000, "total": 3060000, "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=900&q=80" },
+    { "id": 7, "name": "Lexus LX", "amount": 250000, "daily": 45000, "total": 8100000, "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=900&q=80" },
+    { "id": 8, "name": "Lexus UX", "amount": 500000, "daily": 100000, "total": 18000000, "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=900&q=80" },
+    { "id": 9, "name": "Lexus F Sport", "amount": 800000, "daily": 200000, "total": 36000000, "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=900&q=80" }
+  ],
+  "users": [
+    { "id": 1, "name": "Louis Martin", "phone": "+22964000001", "country": "Bénin", "balance": 1250000, "investements": 3, "wallet": 1250000 },
+    { "id": 2, "name": "Awa Diallo", "phone": "+22964000002", "country": "Bénin", "balance": 250000, "investements": 1, "wallet": 250000 },
+    { "id": 3, "name": "Moussa Adam", "phone": "+22799000001", "country": "Niger", "balance": 800000, "investements": 2, "wallet": 800000 },
+    { "id": 4, "name": "Kouassi Yao", "phone": "+22507880011", "country": "Côte d’Ivoire", "balance": 540000, "investements": 1, "wallet": 540000 }
+  ],
+  "depositRequests": [
+    { "id": 1, "userId": 2, "name": "Awa Diallo", "amount": 25000, "phone": "+22964000002", "country": "Bénin", "network": "Orange Money", "proof": "deposit-01.jpg", "date": "2026-10-10", "status": "pending" }
+  ],
+  "withdrawalRequests": [
+    { "id": 1, "userId": 3, "name": "Moussa Adam", "amount": 15000, "network": "Orange Money", "phone": "+22799000001", "country": "Niger", "date": "2026-10-09", "status": "pending" }
+  ],
+  "investments": [
+    { "id": 1, "userId": 1, "productId": 1, "amount": 2000, "startedAt": "2026-10-01T08:00:00.000Z", "status": "active" },
+    { "id": 2, "userId": 1, "productId": 3, "amount": 15000, "startedAt": "2026-10-05T08:00:00.000Z", "status": "active" }
+  ]
+}
